@@ -1,7 +1,7 @@
 <?php
 
+use App\Models\Student;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\StudentController;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+route::get('/',[StudentController::class,'showStudents']);
