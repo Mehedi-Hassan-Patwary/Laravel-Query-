@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Dr. Alice Walker",
+        "email": "alice.walker@example.com",
+        "age": 40,
+        "city": 1
+    },
+    {
+        "name": "Prof. David Miller",
+        "email": "david.miller@example.com",
+        "age": 45,
+        "city": 2
+    },
+    {
+        "name": "Dr. Sophia Martinez",
+        "email": "sophia.martinez@example.com",
+        "age": 38,
+        "city": 3
+    },
+    {
+        "name": "Prof. James Wilson",
+        "email": "james.wilson@example.com",
+        "age": 50,
+        "city": 1
+    },
+    {
+        "name": "Dr. Olivia Harris",
+        "email": "olivia.harris@example.com",
+        "age": 42,
+        "city": 2
+    }
+]
+
